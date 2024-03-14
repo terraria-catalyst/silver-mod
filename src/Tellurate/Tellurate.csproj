@@ -12,4 +12,11 @@
         <AssemblyPublicizerPaths>$(AssemblyPublicizerPaths);$(MSBuildThisFileDirectory)tellurate.publicizer.js</AssemblyPublicizerPaths>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="APIs\OTAPI\" />
+      <Folder Include="APIs\TSAPI\" />
+      <Folder Include="APIs\TShock\" />
+      <Folder Include="Core\" />
+    </ItemGroup>
+
 </Project>
