@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tellurate", "Tellurate\Tellurate.csproj", "{754BF97D-D3C0-4FC3-9A05-AC4F6971E70D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTAPI.Common", "OTAPI.Common\OTAPI.Common.csproj", "{C04FF4C7-DBC5-4378-B759-1B5FB0A7DC30}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,9 +26,5 @@ Global
 		{754BF97D-D3C0-4FC3-9A05-AC4F6971E70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{754BF97D-D3C0-4FC3-9A05-AC4F6971E70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{754BF97D-D3C0-4FC3-9A05-AC4F6971E70D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C04FF4C7-DBC5-4378-B759-1B5FB0A7DC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C04FF4C7-DBC5-4378-B759-1B5FB0A7DC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C04FF4C7-DBC5-4378-B759-1B5FB0A7DC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C04FF4C7-DBC5-4378-B759-1B5FB0A7DC30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
