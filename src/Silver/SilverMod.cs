@@ -1,11 +1,11 @@
 ﻿using JetBrains.Annotations;
 using Terraria.ModLoader;
 
-namespace Tellurate {
+namespace Silver {
     [UsedImplicitly]
     internal static class Unused;
 }
 
-namespace TeamCatalyst.Tellurate {
-    public sealed class TellurateMod : Mod;
+namespace TeamCatalyst.Silver {
+    public sealed class SilverMod : Mod;
 }

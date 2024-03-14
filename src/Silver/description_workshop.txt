@@ -1,0 +1,1 @@
+Silver reimplements the public API surfaces of OTAPI, TSAPI, and TShock, alongside compatibility patches to various plugins.
